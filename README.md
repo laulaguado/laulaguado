@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Laura Laguado 👩🏻‍💻✨
 
-<!--
-**laulaguado/laulaguado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Engineering Student  
+🌎 International Youth Leader | U.S. Department of State Exchange Alumna  
+🤖 AI & Machine Learning Enthusiast  
+📊 Passionate about Data for Social Impact  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Data Science Engineering student from Colombia with strong interests in:
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Data Analysis & Modeling
+- Project Management
+- Digital Literacy & Social Innovation
+
+I was selected as one of seven Colombian representatives for the ODYLP Digital Literacy Program by the U.S. Department of State Bureau of Educational & Cultural Affairs.
+
+I enjoy building projects that combine technology, human behavior, and social transformation.
+
+---
+
+## 🛠️ Technical Skills
+
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL & Databases
+- Data Visualization
+- Git & GitHub
+- APIs Integration
+- Machine Learning Models
+- Deep Learning
+
+---
+
+## 📌 Featured Projects
+
+🔮 AI Tarot Chatbot  
+Interactive chatbot that detects user emotion and intention, generates symbolic tarot interpretations and recommends music via Spotify API.
+
+📊 Data Mining Analysis  
+Exploratory data analysis, feature selection, and predictive modeling.
+
+📚 Digital Literacy Initiatives  
+Translation and adaptation of educational resources for international accessibility.
+
+---
+
+## 🌎 Leadership & International Experience
+
+- U.S. Department of State Program Alumna
+- Youth Leadership & Model United Nations
+- Sustainability & Digital Inclusion Advocate
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add your link)
+- Email: (professional email)
