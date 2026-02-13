@@ -26,25 +26,11 @@ I enjoy building projects that combine technology, human behavior, and social tr
 ## 🛠️ Technical Skills
 
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- SQL & Databases
 - Data Visualization
 - Git & GitHub
-- APIs Integration
 - Machine Learning Models
 - Deep Learning
 
----
-
-## 📌 Featured Projects
-
-🔮 AI Tarot Chatbot  
-Interactive chatbot that detects user emotion and intention, generates symbolic tarot interpretations and recommends music via Spotify API.
-
-📊 Data Mining Analysis  
-Exploratory data analysis, feature selection, and predictive modeling.
-
-📚 Digital Literacy Initiatives  
-Translation and adaptation of educational resources for international accessibility.
 
 ---
 
@@ -58,5 +44,4 @@ Translation and adaptation of educational resources for international accessibil
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (professional email)
+- LinkedIn: www.linkedin.com/in/laura-laguado-echeverri-134796238
