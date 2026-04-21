@@ -1,7 +1,6 @@
 # Hi, I'm Laura Laguado 👩🏻‍💻✨
 
 🎓 Data Science Engineering Student  
-🌎 International Youth Leader | U.S. Department of State Exchange Alumni 
 🤖 AI & Machine Learning Enthusiast  
 📊 Passionate about Data for Social Impact  
 
